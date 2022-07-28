@@ -1,3 +1,5 @@
+In this project, I plan to add missing stuff to the existing sc3 project.
+
 [![PyPI](https://img.shields.io/pypi/v/sc3)](https://pypi.org/project/sc3)
 [![Documentation Status](https://readthedocs.org/projects/sc3/badge/?version=latest)](https://sc3.readthedocs.io/en/latest/?badge=latest)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sc3)
